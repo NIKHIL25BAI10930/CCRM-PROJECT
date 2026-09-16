@@ -86,6 +86,7 @@ javac -d bin src/edu/ccrm/cli/MainMenu.java src/edu/ccrm/cli/CLIApp.java src/edu
 java -cp bin edu.ccrm.cli.CLIApp
 ```
 
+
 # 📘 Usage Guide – Campus Course & Records Manager (CCRM)
 by NIKHIL AGARWAL 25BAI10930
 
